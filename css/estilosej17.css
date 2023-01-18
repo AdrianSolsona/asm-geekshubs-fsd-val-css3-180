@@ -1,0 +1,119 @@
+body{
+    background-image: url(../images/fondo-flores.jpg);
+}
+.galeria{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    gap: 12rem;
+}
+.galeria img{
+    max-width: 350px;
+    
+}
+.mantel{
+    width: 250px;
+    background-image: url(../images/back_mantel.jpg);
+    margin-left: 2rem;
+    height: 250px;
+    margin-top: 2rem;
+    border: solid black 1px;
+}
+.mantel-peq{
+    width: 150px;
+    height: 150px;
+    background-image: url(../images/back_mantel.jpg);
+    margin-top: 5rem;
+    border: solid black 1px;
+}
+
+.mantel-dif{
+    width: 225px;
+    height: 225px;
+    margin-top: 2rem;
+    border: solid black 1px;
+    display: flex;
+    flex-direction: column;
+}
+.mantel-dif2{
+    width: 275px;
+    height: 275px;
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: column;
+}
+.mantel-borde{
+    background-color: white;
+    padding: 2rem;
+}
+.tio-cerca{
+    background-image: url(../images/tio-cerca.jpg);
+    width: 250px;
+    height: 250px;
+    margin-top: 2rem;
+    border: solid black 1px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 12rem;
+}
+.tio-cerca-pad{
+    background-image: url(../images/tio-cerca.jpg);
+    width: 250px;
+    height: 250px;
+    margin-top: 2rem;
+    border: solid black 1px;
+    display: flex;
+    flex-direction: column;
+}
+.tio-cerca2{
+    width: 275px;
+    height: 275px;
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    
+}
+.foto-cerca{
+    background-color: white;
+    padding: 2rem;
+}
+.tio-horizontal{
+    width: 275px;
+    height: 275px;
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    border: solid black 1px;
+    background-color: white;
+}
+.foto-horizontal{
+    
+    padding: 4rem 0rem;
+}
+.foto-cerca2{
+    height: 500px;
+    background-color: white;
+    padding: 0rem 3rem;
+}
+.I{
+    background-image: linear-gradient(to right, rgb(138, 187, 95), rgb(27, 50, 24));
+    width: 275px;
+    height: 275px;
+    margin-left: 12rem;
+}
+.J{
+    background-image: linear-gradient( rgb(227, 158, 136), rgb(150, 54, 20));
+    width: 275px;
+    height: 275px;
+}
+.K{
+    background-image: linear-gradient( rgb(167, 236, 165), rgb(74, 110, 51));
+    width: 275px;
+    height: 275px;
+}
+.L{
+    background-image: linear-gradient( rgb(165, 201, 134), rgb(9, 56, 3));
+    width: 275px;
+    height: 275px;
+    opacity: 0.8;
+}

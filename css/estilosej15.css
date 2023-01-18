@@ -1,0 +1,9 @@
+.letras{
+    list-style-type: lower-latin;
+}
+.romanos{
+    list-style-type: upper-roman;
+}
+.principal{
+    margin-left: 2rem;
+}

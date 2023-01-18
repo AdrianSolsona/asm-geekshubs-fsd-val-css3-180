@@ -1,0 +1,32 @@
+table{
+    border: solid aqua 1.5px;
+    border-collapse: collapse;
+    border: outset 5px;
+
+}
+tr{
+    border: solid aqua 1.5px;
+    width: 30px;
+}
+td{
+    border: solid aqua 1.5px;
+}
+th{
+    background-color: rgb(4, 37, 34);
+    color:rgb(125, 181, 157);
+    border: solid aqua 1.5px;
+    
+
+}
+
+.tr-3{
+    background-color: rgb(79, 128, 107);
+}
+
+.tr-4{
+    background-color: rgb(125, 181, 157);
+
+}
+.tr-2{
+background-color: rgb(125, 181, 157)
+}

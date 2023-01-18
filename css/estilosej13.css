@@ -1,0 +1,44 @@
+table{
+    border: solid black 1px;
+    width: 100vw;
+    border: outset 3px;
+    border-collapse: collapse;
+}
+h4{
+    margin-bottom: 0px;
+    text-align: center;
+}
+tr{
+    border: solid black 1px;
+    border: outset;
+}
+td{
+    border: solid black 1px;
+    border: outset;
+}
+.tr-1{
+    border: solid black 1px;
+    text-align: center;
+
+}
+.celda1{
+    background-color: rgb(95, 199, 95);
+}
+.celda2{
+    background-color: aqua;
+    font-weight: bold;
+}
+.celdas-td{
+    text-align: center;
+    font-weight: bold;
+}
+.celdas-td-6{
+    background-color: plum;
+    justify-content: end;
+    font-weight: bold;
+}
+.celdas-td-red{
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}

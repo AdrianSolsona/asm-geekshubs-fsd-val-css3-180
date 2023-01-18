@@ -1,0 +1,29 @@
+table{
+    border: solid black 1px;
+    border: outset;
+    text-align: center;
+    width: 700px;
+}
+th{
+    border: solid black 1px;
+    color: rgb(196, 31, 31);
+    background-color: rgb(119, 185, 119);
+}
+tr{
+    border: solid black 1px; 
+    color: rgb(196, 31, 31);
+}
+td{
+    border: solid black 1px;
+    color: rgb(196, 31, 31);
+}
+.orange{
+    background-color: rgb(242, 186, 151);
+    font-weight: 500;
+}
+.yellow{
+    background-color: rgb(255, 255, 154);
+}
+.fondo-pata{
+    background-color: rgb(244, 244, 185);
+}

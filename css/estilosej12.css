@@ -1,0 +1,38 @@
+table{
+    border: solid aqua 1.5px;
+    border-collapse: collapse;
+    border: outset 5px;
+
+}
+tr{
+    border: solid aqua 1.5px;
+    width: 30px;
+}
+td{
+    border: solid aqua 1.5px;
+}
+th{
+    background-color: rgb(4, 37, 34);
+    color:rgb(162, 237, 204);
+    border: solid aqua 1.5px; 
+}
+.actividad{
+    width: 50px;
+}
+.tdc{
+    background-color: rgb(162, 237, 204);
+}
+.tdu{
+    background-color: rgb(81, 179, 136);
+}
+.td-num{
+    background-color: rgb(162, 237, 204);
+    text-align: center;
+}
+.td-num2{
+    background-color:rgb(81, 179, 136);
+    text-align: center;
+}
+.actividad{
+    width: 50px;
+}

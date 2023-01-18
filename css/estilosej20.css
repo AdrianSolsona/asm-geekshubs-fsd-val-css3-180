@@ -1,0 +1,15 @@
+table{
+    border: solid black 1px;
+}
+th{
+     border: solid black 1px;
+}
+td{
+    border: solid black 1px;
+}
+tr{
+    border: solid black 1px;
+}
+.titulo{
+    font-weight: bold;
+}
